@@ -1,4 +1,4 @@
-<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/Perfil.png" style="width: auto, height: 30%, margin-left: auto, margin-left: auto" />
+<img alt="logo DIO.me" src="https://github.com/joaomhernandes/DIO_Activities/blob/main/Assets/Perfil.png" style="width: auto, height: 100%, margin-left: auto, margin-left: auto" />
 
 # Summary
 
