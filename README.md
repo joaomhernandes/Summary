@@ -11,9 +11,12 @@ Summary of repositories and contents
 | Name  | Descriptio  | Quantity |
 |   ---     |     ---     |       ---        |
 | [Dio.me Activities](https://github.com/joaomhernandes/DIO_Activities) | Bootcamp | 8 |
-| [Hiring-Coders](https://github.com/joaomhernandes/Hiring-Coders) | Bootcamp | 1 (2 fases of 3) |
+| [Hiring-Coders #2](https://github.com/joaomhernandes/Hiring-Coders) | Bootcamp | 1 (2 fases of 3) |
 | [Pam Academy](https://github.com/joaomhernandes/PAN-Academy) | Bootcamp | 1 |
 | [StarHire 365](https://github.com/joaomhernandes/StarHire_365) | Bootcamp | 2 |
+| [Tomorrow Tech Talents](https://github.com/joaomhernandes/TomorrowTechTalents) | Bootcamp | 1 |
+| [Hiring-Coders #3 - Starts on 04-26-2022] | Bootcamp | 1 |
+
 
 
 
